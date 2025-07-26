@@ -1,0 +1,11 @@
+sensor:
+  port: COM15
+  baudrate: 2000000
+
+motor:
+  port: /dev/ttyACM0
+  baudrate: 921600
+  open_position: -18
+  close_position: 24
+  force: 500
+  speed: 170

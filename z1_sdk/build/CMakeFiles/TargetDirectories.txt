@@ -1,0 +1,7 @@
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/highcmd_basic.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/highcmd_development.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/lowcmd_development.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/lowcmd_multirobots.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/unitree_arm_interface.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/edit_cache.dir
+/home/x86/Z1Rbot/z1_sdk/build/CMakeFiles/rebuild_cache.dir

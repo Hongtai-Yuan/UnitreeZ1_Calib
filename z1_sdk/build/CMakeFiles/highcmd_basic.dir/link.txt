@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -std=c++14 -pthread -rdynamic CMakeFiles/highcmd_basic.dir/examples/highcmd_basic.cpp.o -o highcmd_basic   -L/home/x86/Z1Rbot/z1_sdk/lib  -Wl,-rpath,/home/x86/Z1Rbot/z1_sdk/lib -lZ1_SDK_x86_64 
