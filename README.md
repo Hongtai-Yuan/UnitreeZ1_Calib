@@ -2,9 +2,9 @@
 
 ## 空间手眼标定及抓取示例示例
 
-<div style="display: flex; align="center"; gap: 40px;">
-  <img src="readmefiles/1.gif" alt="说明文本" width="300">
-  <img src="readmefiles/2.gif" alt="说明文本" width="300">
+<div align="center">
+  <img src="readmefiles/1.gif" width="300">
+  <img src="readmefiles/2.gif" width="300">
 </div>
 
 ## 标定效果
