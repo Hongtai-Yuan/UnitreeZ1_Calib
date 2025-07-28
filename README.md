@@ -2,6 +2,12 @@
 
 ## 空间手眼标定示例
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="readmefiles/1.gif" alt="说明文本" width="400">
+  <img src="readmefiles/2.gif" alt="说明文本" width="400">
+</div>
+
+
 <p align="center">
   <img src="readmefiles/1.gif" alt="说明文本" width="400">
 </p>
